@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ruben.springframework.spring5webapp.Spring5webappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.998 s - in ruben.springframework.spring5webapp.Spring5webappApplicationTests
